@@ -1,4 +1,4 @@
-# software-failure-propagation-prediction
+# GNN-SoftSim
 A failure in large software systems can be catastrophic.  A proactive approachto detect possible failures and measure their potential impact and propagation can be critical to the reliability of the business.  This proactive approach canbe achieved by various means, one of which is by monitoring the system’s components and utilizing this information to predict and estimate how the current system  state  may  cause  a  failure  and  how  this  failure  may  propagate.
 
 We use Graphs as large software systems can naturally be represented by graphs. The microservices can be represented by nodes and the calls between those microservices can be represented by edges.
